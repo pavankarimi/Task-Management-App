@@ -5,6 +5,10 @@ Task Management App (React.js)
 📌 Project Overview:  
 The Task Management App is a simple yet efficient to-do list application built using React.js. It allows users to add, edit, delete, and mark tasks as complete, along with the ability to select a specific time for each task. The application is designed to be responsive and visually appealing, making task management effortless.  
 
+## 🌎 Live Demo  
+🔗 https://task-manager-application-pavan.netlify.app/
+
+
 📸 Application Preview:  
 ![Screenshot 2025-01-30 233809](https://github.com/user-attachments/assets/07379de6-31f9-4da9-a5d6-47eb8678a304)
 
