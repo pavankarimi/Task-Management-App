@@ -8,6 +8,8 @@ The Task Management App is a simple yet efficient to-do list application built u
 ## 🌎 Live Demo  
 🔗 https://task-manager-application-pavan.netlify.app/
 
+---
+
 
 📸 Application Preview:  
 ![Screenshot 2025-01-30 233809](https://github.com/user-attachments/assets/07379de6-31f9-4da9-a5d6-47eb8678a304)
